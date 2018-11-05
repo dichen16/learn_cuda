@@ -1,5 +1,6 @@
 #include <iostream>
 #include <math.h>
+//smaell
 #include "driver_types.h"
 // Kernel function to add the elements of two arrays
 __global__
